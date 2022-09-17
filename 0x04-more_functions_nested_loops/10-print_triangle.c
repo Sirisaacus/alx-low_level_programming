@@ -28,7 +28,6 @@ _putchar(' ');
 for (n = 1; n <= k; n++)
 _putchar('#');
 
- 
 _putchar('\n');
 }
 }
